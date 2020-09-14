@@ -31,7 +31,7 @@ console.log('3' !== 3);
 2 < 3;
 
 //? Greater Than or Equal To
-3 >= 2; // => fat arrow *not the same thing
+3 >= 2; // => fat arrow *not the same thing!
 
 //? Less Than or Equal To
 2 <= 3;
